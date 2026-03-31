@@ -349,7 +349,7 @@ function closeModal(type) {
 
 function handleLogin(e) {
   e.preventDefault();
-  alert("Welcome back to NeoAnime! 🚀");
+  alert("Welcome back to Streaming! 🚀");
   closeModal("login");
 }
 
