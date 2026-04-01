@@ -1,4 +1,5 @@
 ## 🖥️ Live Preview
+
 👉[![Website](https://img.shields.io/badge/Website-Arc-red?style=for-the-badge&logo=google-chrome&logoColor=white)](https://arcstream.netlify.app/)
 
 # 🎌 Anime Streaming Website
@@ -6,8 +7,6 @@
 > An interactive and modern Anime Streaming Website built using **HTML**, **CSS**, and **JavaScript** — designed to deliver a smooth and engaging user experience for anime lovers.
 
 ---
-
-
 
 ## 🚀 Features
 
@@ -21,10 +20,10 @@
 
 ## 🛠️ Tech Stack
 
-| Technology | Purpose |
-|------------|---------|
-| ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) | Page structure & content |
-| ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) | Styling, animations & layout |
+| Technology                                                                                               | Purpose                          |
+| -------------------------------------------------------------------------------------------------------- | -------------------------------- |
+| ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)                | Page structure & content         |
+| ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)                   | Styling, animations & layout     |
 | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) | Interactivity & dynamic features |
 
 ---
@@ -43,16 +42,19 @@ Streaming/
 ## ⚙️ Getting Started
 
 ### Prerequisites
+
 All you need is a modern web browser — no installations required!
 
 ### Run Locally
 
 1. **Clone the repository**
+
    ```bash
    git clone https://github.com/suvamkabi-software/Streaming.git
    ```
 
 2. **Navigate into the project folder**
+
    ```bash
    cd Streaming
    ```
@@ -63,8 +65,6 @@ All you need is a modern web browser — no installations required!
    open index.html
    ```
    Or just double-click `index.html` in your file explorer.
-
-
 
 ## 📌 Roadmap
 
@@ -88,11 +88,10 @@ Contributions are welcome! Here's how:
 
 ---
 
-
-
 ## 👨‍💻 Author
 
 **Suvam Kabi**
+
 - GitHub: [@suvamkabi-software](https://github.com/suvamkabi-software)
 
 ---
@@ -102,3 +101,4 @@ Contributions are welcome! Here's how:
 <p align="center">
 ⭐ This project was created only for learning and practice purposes.
 </p>
+hello
